@@ -1,6 +1,0 @@
-#include <iostream>
-
-int main()
-{
-  std::cout << "Estudante e amante de tecnologia, fiz cursos de desenvolvimento web (gosto mais da parte de back-end ) e modelagem em 3D.\n  Atualmente faço faculdade de Analise e Desenvolvimento de Sistemas";
-}
